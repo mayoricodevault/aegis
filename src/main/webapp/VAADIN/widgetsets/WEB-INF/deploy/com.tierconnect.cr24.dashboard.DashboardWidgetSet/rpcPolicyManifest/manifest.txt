@@ -1,0 +1,2 @@
+# Module com.tierconnect.cr24.dashboard.DashboardWidgetSet
+# RPC service class, partial path of RPC policy file

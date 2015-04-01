@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="cr24-ui:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/cr24_ui_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="cr24-ui/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="cr24-ui" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

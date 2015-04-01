@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL -cr24" uuid="3814fdf1-ddb4-4801-bb1c-5659758997a6">
+      <secret-storage>master_key</secret-storage>
+      <first-sync>true</first-sync>
+      <ssh-properties>
+        <enabled>true</enabled>
+        <proxy-host>54.183.195.182</proxy-host>
+        <proxy-port>22</proxy-port>
+        <secret-storage>master_key</secret-storage>
+        <user>ec2-user</user>
+        <use-password>false</use-password>
+        <private-key-path>$PROJECT_DIR$/../../cr24/cr24dev.pem</private-key-path>
+      </ssh-properties>
+      <ssl-config>
+        <ca-cert>$PROJECT_DIR$/../../cr24/cr24dev.pem</ca-cert>
+        <enabled>true</enabled>
+      </ssl-config>
+    </data-source>
+    <data-source name="MySQL - aegis@localhost" uuid="8b8afba5-eb8b-47cd-a935-d15151bb9f86">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>aegis.*</schema-pattern>
+      <default-schemas>aegis.*</default-schemas>
+    </data-source>
+  </component>
+</project>

@@ -1,0 +1,15 @@
+/Users/carolasilvateran/Desktop/CodeRoad/cr24-ui/src/test/java/com/tierconnect/cr24/dashboard/tb/pageobjects/TBTextBlock.java
+/Users/carolasilvateran/Desktop/CodeRoad/cr24-ui/src/test/java/com/tierconnect/cr24/dashboard/tb/pageobjects/TBMainView.java
+/Users/carolasilvateran/Desktop/CodeRoad/cr24-ui/src/test/java/com/tierconnect/cr24/dashboard/tb/pageobjects/TBProfileWindow.java
+/Users/carolasilvateran/Desktop/CodeRoad/cr24-ui/src/test/java/com/tierconnect/cr24/dashboard/tb/TBUtils.java
+/Users/carolasilvateran/Desktop/CodeRoad/cr24-ui/src/test/java/com/tierconnect/cr24/dashboard/tb/ReportsViewIT.java
+/Users/carolasilvateran/Desktop/CodeRoad/cr24-ui/src/test/java/com/tierconnect/cr24/dashboard/tb/pageobjects/TBConfirmDialog.java
+/Users/carolasilvateran/Desktop/CodeRoad/cr24-ui/src/test/java/com/tierconnect/cr24/dashboard/tb/pageobjects/TBReportsView.java
+/Users/carolasilvateran/Desktop/CodeRoad/cr24-ui/src/test/java/com/tierconnect/cr24/dashboard/tb/pageobjects/TBTransactionsView.java
+/Users/carolasilvateran/Desktop/CodeRoad/cr24-ui/src/test/java/com/tierconnect/cr24/dashboard/tb/pageobjects/TBDashboardEdit.java
+/Users/carolasilvateran/Desktop/CodeRoad/cr24-ui/src/test/java/com/tierconnect/cr24/dashboard/tb/pageobjects/TBLoginView.java
+/Users/carolasilvateran/Desktop/CodeRoad/cr24-ui/src/test/java/com/tierconnect/cr24/dashboard/tb/LoginViewIT.java
+/Users/carolasilvateran/Desktop/CodeRoad/cr24-ui/src/test/java/com/tierconnect/cr24/dashboard/tb/TransactionsViewIT.java
+/Users/carolasilvateran/Desktop/CodeRoad/cr24-ui/src/test/java/com/tierconnect/cr24/dashboard/tb/pageobjects/TBDashboardView.java
+/Users/carolasilvateran/Desktop/CodeRoad/cr24-ui/src/test/java/com/tierconnect/cr24/dashboard/tb/DashboardViewIT.java
+/Users/carolasilvateran/Desktop/CodeRoad/cr24-ui/src/test/java/com/tierconnect/cr24/dashboard/tb/MainViewIT.java

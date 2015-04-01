@@ -1,0 +1,15 @@
+com/tierconnect/cr24/dashboard/tb/pageobjects/TBProfileWindow.class
+com/tierconnect/cr24/dashboard/tb/pageobjects/TBReportsView.class
+com/tierconnect/cr24/dashboard/tb/pageobjects/TBConfirmDialog.class
+com/tierconnect/cr24/dashboard/tb/pageobjects/TBTransactionsView.class
+com/tierconnect/cr24/dashboard/tb/DashboardViewIT.class
+com/tierconnect/cr24/dashboard/tb/TransactionsViewIT.class
+com/tierconnect/cr24/dashboard/tb/pageobjects/TBLoginView.class
+com/tierconnect/cr24/dashboard/tb/pageobjects/TBTextBlock.class
+com/tierconnect/cr24/dashboard/tb/TBUtils.class
+com/tierconnect/cr24/dashboard/tb/LoginViewIT.class
+com/tierconnect/cr24/dashboard/tb/pageobjects/TBDashboardView.class
+com/tierconnect/cr24/dashboard/tb/pageobjects/TBMainView.class
+com/tierconnect/cr24/dashboard/tb/ReportsViewIT.class
+com/tierconnect/cr24/dashboard/tb/pageobjects/TBDashboardEdit.class
+com/tierconnect/cr24/dashboard/tb/MainViewIT.class
